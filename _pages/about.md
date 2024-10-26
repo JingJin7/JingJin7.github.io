@@ -66,10 +66,6 @@ I am actively seeking graduate (Master’s/PhD) opportunities to further my rese
   *2021.01 - 2021.09*  
   Conducted research on face detection algorithms and helped develop a face detection SoC system that integrated a camera, LCD, digital display, LED, UART, and timer. Implemented the Viola-Jones algorithm for face detection, trained in PyTorch, and stored precomputed weights in FPGA RAM. The system used a Cortex-M3 core for software operations, enabling real-time face detection with Verilog HDL.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💼 Working Experience
 
 - **Beijing Net-swift Technology Co.** (Top 10 NIC manufacturer in China), Hangzhou, China  
@@ -82,5 +78,41 @@ I am actively seeking graduate (Master’s/PhD) opportunities to further my rese
   - **RDMA Network Protocol RoCE Design and Optimization**  
     Specialized in the architectural design and optimization of the RDMA protocol (RoCE) for efficient packet transmission and reception. Authored and refined RTL code in Verilog, employing VCS for case verification and Verdi for waveform analysis, achieving stringent verification standards. Developed optimizations for reliable connection scenarios, resulting in performance increases ranging from 100% to 300%.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📖 Self-Studying
+
+- **Deep Learning** - Ian Goodfellow, Yoshua Bengio, Aaron Courville  
+  A foundational textbook covering the basics and various aspects of deep learning and neural networks.
+
+- **Neural Networks and Deep Learning** - Michael Nielsen  
+  An accessible online resource introducing neural network fundamentals and deep learning principles.
+
+- **Deep Learning with Python** - François Chollet  
+  Focuses on deep learning with Python, especially using the Keras library, with practical insights and applications.
+
+- **SystemVerilog Verification Methodology** - Yuwen Xia
+  A comprehensive book on SystemVerilog, covering foundational knowledge and applications in verification. It includes UVM and OVM methodologies, with extensive code examples and exercises, suitable for professionals and students in digital circuit design.
+
+- **Computer Organization and Design: The Hardware/Software Interface** (5th Edition) - David A. Patterson, John L. Hennessy  
+  A classic textbook on computer architecture, covering processor design, memory hierarchy, and hardware-software interaction. It includes examples of ARM and x86 architectures, with in-depth discussions on performance optimization and parallelism, making it ideal for a comprehensive understanding of computer systems.
+
+- **.[High-Speed Communication Circuits] (https://ocw.mit.edu/courses/6-776-high-speed-communication-circuits-spring-2005/)** - MIT OpenCourseWare  
+  Explores the design principles of high-speed communication circuits, covering topics such as transmission lines, clock and data recovery, and signal integrity. This course is essential for understanding the fundamentals of high-speed data communication and circuit design.
+
+- **.[Network and Computer Security] (https://ocw.mit.edu/courses/6-857-network-and-computer-security-spring-2014/)** - MIT OpenCourseWare  
+  Covers fundamental topics in network and computer security, including cryptography, system vulnerabilities, and secure protocols. This course provides a strong foundation in understanding security threats and defense mechanisms for networks and systems.
+
+# 🌟 Extra-Curricular Activities
+
+- **Psychological Department of Student Union**, Hefei University of Technology, Hefei, China  
+  *Secretary*  
+  *2018.09 - 2019.06*  
+  Organized mental health education activities, including lectures and workshops, promoting mental wellness among students.
+
+- **Department of HFUT Innovation and Entrepreneurship @ Big Data Center**, Hefei University of Technology, Hefei, China  
+  *Secretary*  
+  *2019.03 - 2020.07*  
+  Organized student exchange events and contributed to public communications by editing content for the INOW Creators' public account.
+
+- **Volunteer Work**, China  
+  *2018.09 - Present*  
+  Accumulated over 100 hours of volunteer service in various community activities and events, demonstrating a strong commitment to social responsibility.
