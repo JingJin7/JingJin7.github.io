@@ -89,8 +89,9 @@ I am actively seeking graduate (Master’s/PhD) opportunities to further my rese
 - **Deep Learning with Python** - François Chollet  
   Focuses on deep learning with Python, especially using the Keras library, with practical insights and applications.
 
-- **SystemVerilog Verification Methodology** - Yuwen Xia
-  A comprehensive book on SystemVerilog, covering foundational knowledge and applications in verification. It includes UVM and OVM methodologies, with extensive code examples and exercises, suitable for professionals and students in digital circuit design.
+- **SystemVerilog Verification Methodology** - Yuwen Xia  
+  A comprehensive book on SystemVerilog, covering foundational knowledge and applications in verification.  
+  It includes UVM and OVM methodologies, with extensive code examples and exercises, suitable for professionals and students in digital circuit design.
 
 - **Computer Organization and Design: The Hardware/Software Interface** (5th Edition) - David A. Patterson, John L. Hennessy  
   A classic textbook on computer architecture, covering processor design, memory hierarchy, and hardware-software interaction. It includes examples of ARM and x86 architectures, with in-depth discussions on performance optimization and parallelism, making it ideal for a comprehensive understanding of computer systems.
