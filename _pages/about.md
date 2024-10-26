@@ -95,11 +95,12 @@ I am actively seeking graduate (Master’s/PhD) opportunities to further my rese
 - **Computer Organization and Design: The Hardware/Software Interface** (5th Edition) - David A. Patterson, John L. Hennessy  
   A classic textbook on computer architecture, covering processor design, memory hierarchy, and hardware-software interaction. It includes examples of ARM and x86 architectures, with in-depth discussions on performance optimization and parallelism, making it ideal for a comprehensive understanding of computer systems.
 
-- **.[High-Speed Communication Circuits] (https://ocw.mit.edu/courses/6-776-high-speed-communication-circuits-spring-2005/)** - MIT OpenCourseWare  
+- **[High-Speed Communication Circuits](https://ocw.mit.edu/courses/6-776-high-speed-communication-circuits-spring-2005/)** - MIT OpenCourseWare  
   Explores the design principles of high-speed communication circuits, covering topics such as transmission lines, clock and data recovery, and signal integrity. This course is essential for understanding the fundamentals of high-speed data communication and circuit design.
 
-- **.[Network and Computer Security] (https://ocw.mit.edu/courses/6-857-network-and-computer-security-spring-2014/)** - MIT OpenCourseWare  
+- **[Network and Computer Security](https://ocw.mit.edu/courses/6-857-network-and-computer-security-spring-2014/)** - MIT OpenCourseWare  
   Covers fundamental topics in network and computer security, including cryptography, system vulnerabilities, and secure protocols. This course provides a strong foundation in understanding security threats and defense mechanisms for networks and systems.
+
 
 # 🌟 Extra-Curricular Activities
 
