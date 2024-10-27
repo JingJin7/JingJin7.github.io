@@ -31,7 +31,7 @@ I am actively seeking graduate (Master’s/PhD) opportunities to further my rese
 - *2023.04*: &nbsp;🎉📝 Began the ASIC implementation of the RDMA network protocol.
 - *2023.03*: &nbsp;🎉📝 The multicast packet system has achieved a 25% improvement in search rate with minimal hardware overhead. Patent in progress.
 - *2022.09*: &nbsp;🎉📝 Led the hardware implementation of a resource-efficient multicast model in large-scale network systems.
-- *2022.07*: &nbsp;🎉💼 Joined .[Beijing Net-swift Technology Co.](https://www.net-swift.com/) as a Digital IC Design Engineer!
+- *2022.07*: &nbsp;🎉💼 Joined Beijing Net-swift Technology Co. as a Digital IC Design Engineer!
 - *2022.06*: &nbsp;🎉🎓 Graduated from Hefei University of Technology with a Bachelor’s degree in Microelectronics, ranked 15th in a class of 104, supervised by [Xiaolei Wang](https://wdzxy.hfut.edu.cn/2020/1105/c11547a247642/page.htm).
 - *2021.09*: &nbsp;🎉🏆 Participated in the China College IC Competition and won a national third prize for the design of a Face Detection SoC on FPGA!
 
