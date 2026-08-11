@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jing Jin"
-description              : "Ph.D. student in Electrical and Computer Engineering at Stony Brook University"
+description              : "Ph.D. student in Electrical Engineering at Stony Brook University"
 repository               : "JingJin7/JingJin7.github.io"
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :
 author:
   name             : "Jing Jin"
   avatar           : "images/50e8d35a781957d808c969370ea2f84f_720.png"
-  bio              : "Ph.D. Student in Electrical and Computer Engineering at Stony Brook University"
+  bio              : 
   location         : "Stony Brook, NY, USA"
   Employer         : "Stony Brook University"
   pubmed           : 
