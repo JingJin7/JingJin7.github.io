@@ -17,15 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m Jin Jing, an IC design engineer with a background in microelectronics from Hefei University of Technology.
+Hello! I'm Jing Jin, a Ph.D. student in Electrical Engineering at Stony Brook University.
 
-I’m currently working at Beijing Net-Swift, focusing on ASIC design and hign-speed NIC.
+My research interests include computer architecture, hardware acceleration,
+FPGA/ASIC design, and efficient AI systems. Before starting my Ph.D.,
+I worked as a Digital IC Design Engineer at Beijing Net-Swift Technology,
+where I worked on high-speed Ethernet NICs and RDMA/RoCE hardware.
 
-My research interests are **VLSI/ASIC/SoC Design, NIC, Neuromorphic Hardware and Efficient AI Hardware Accelerator**.
-
-I am actively seeking graduate (Master’s/PhD) opportunities to further my research and expertise in these areas.
+I received my B.Eng. in Microelectronics from Hefei University of Technology.
 
 # 🔥 News
+**[Aug. 2025]** I joined **Stony Brook University** as a Ph.D. student in Electrical and Computer Engineering. 🎉
 - *2024.09*: &nbsp;🎉📝 Finished the front-end design of this chip!
 - *2023.12*: &nbsp;🎉📝 Started the debugging and optimization process for the entire Ethernet NIC (100Gbps) chip.
 - *2023.04*: &nbsp;🎉📝 Began the ASIC implementation of the RDMA network protocol.
@@ -42,6 +44,10 @@ I am actively seeking graduate (Master’s/PhD) opportunities to further my rese
 
 # 🎓 Education
 
+- **Stony Brook University**, Stony Brook, NY, USA  
+  Ph.D. in Electrical and Computer Engineering  
+  2025 - Present
+  
 - **Hefei University of Technology**, Hefei, China  
   *B.Eng. in Microelectronics, National Demonstration Microelectronics School*  
   *2018.09 - 2022.07*  
@@ -70,7 +76,7 @@ I am actively seeking graduate (Master’s/PhD) opportunities to further my rese
 
 - **Beijing Net-swift Technology Co.** (Top 10 NIC manufacturer in China), Hangzhou, China  
   *Digital Integrated Circuit Design Engineer*  
-  *2022.07 - Present*
+  *2022.07 - 2025.07*
 
   - **Debugging and Optimization for Ethernet NIC (100Gbps)**  
     Conducted in-depth debugging and performance optimization for Ethernet NIC chips designed for 100Gbps data transmission. Resolved timing violations at a 2ns clock frequency through advanced synthesis techniques, leading to significant design improvements. Collaborated with firmware and driver departments for FPGA validation, ensuring robust real-world performance, with a focus on key components like PCIe interfaces, PHY, and DMA.
