@@ -7,28 +7,27 @@
 
 # Site Settings
 title                    : "Jing Jin"
-description              : "Digital integtated circuit design engineer"
+description              : "Ph.D. student in Electrical and Computer Engineering at Stony Brook University"
 repository               : "JingJin7/JingJin7.github.io"
-#google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification :
+bing_site_verification   :
+baidu_site_verification  :
 
 # Site Author
 author:
   name             : "Jing Jin"
   avatar           : "images/50e8d35a781957d808c969370ea2f84f_720.png"
-  bio              : "Demonstrative Microelectronics School of China, Hefei University of Technology"
-  location         : "Hangzhou, China"
-  employer         : "Beijing Net-Swift"
+  bio              : "Ph.D. Student in Electrical and Computer Engineering at Stony Brook University"
+  location         : "Stony Brook, NY, USA"
+  School         : "Stony Brook University"
   pubmed           : 
   googlescholar    : 
-  email            : "jingjin0223@outlook.com"
+  email            : "jing.jin.4@stonybrook.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -136,7 +135,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
